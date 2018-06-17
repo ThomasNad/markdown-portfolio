@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Muehlviertel landscape](https://www.bike-perlen.de/images/biketouren/M08/M08_03_Blick_ins_Muehlviertel.jpg)
